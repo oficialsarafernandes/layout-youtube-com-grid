@@ -4,4 +4,4 @@ Layout inspirado no youtube. Utilizei o Grid pra fazer o posicionamento das colu
 
 -Projeto:
 
-[<img src="./src/desing/layout-youtube-grid.jfif" alt="Landing Page Agência">]
+[<img src="./src/desing/layout-youtube-grid.jfif" alt="Layout Youtube">]
